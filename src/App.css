@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.coolButton{
+  background-color: crimson;
+  color: white;
+  width: 125px;
+  min-height: 30px;
+  margin: 10px;
+}
+img{
+  margin: 10px;
+}
